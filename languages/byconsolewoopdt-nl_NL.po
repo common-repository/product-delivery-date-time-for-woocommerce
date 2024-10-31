@@ -1,0 +1,403 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooPTT\n"
+"POT-Creation-Date: 2020-11-17 01:21+0530\n"
+"PO-Revision-Date: 2020-12-01 13:56+0530\n"
+"Last-Translator: \n"
+"Language-Team: Dutch\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Loco-Version: 2.4.6; wp-5.5.3\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: ByConsoleProductTimeTable.php:1104
+msgid "This item is available on"
+msgstr "Dit gerecht is beschikbaar op"
+
+#: ByConsoleProductTimeTable.php:1112 ByConsoleProductTimeTable.php:1116
+msgid "Mon"
+msgstr "Ma"
+
+#: ByConsoleProductTimeTable.php:1123 ByConsoleProductTimeTable.php:1127
+msgid "Tue"
+msgstr "Di"
+
+#: ByConsoleProductTimeTable.php:1133 ByConsoleProductTimeTable.php:1137
+msgid "Wed"
+msgstr "Wo"
+
+#: ByConsoleProductTimeTable.php:1143 ByConsoleProductTimeTable.php:1147
+msgid "Thu"
+msgstr "Do"
+
+#: ByConsoleProductTimeTable.php:1153 ByConsoleProductTimeTable.php:1157
+msgid "Fri"
+msgstr "Vr"
+
+#: ByConsoleProductTimeTable.php:1163 ByConsoleProductTimeTable.php:1167
+msgid "Sat"
+msgstr "Za"
+
+#: ByConsoleProductTimeTable.php:1173 ByConsoleProductTimeTable.php:1177
+msgid "Sun"
+msgstr "Zo"
+
+#: ByConsoleProductTimeTable.php:1187
+msgid "Choose your date"
+msgstr "Kies uw datum"
+
+#: ByConsoleProductTimeTable.php:1191
+msgid "Click here..."
+msgstr "Klik hier..."
+
+#: ByConsoleProductTimeTable.php:1195
+msgid "Choose your order type"
+msgstr "Kies uw besteltype"
+
+#: ByConsoleProductTimeTable.php:1199 woocommerce/admin-product.php:122
+#: woocommerce/admin-product.php:169 woocommerce/admin-product.php:197
+#: woocommerce/admin-product.php:222 woocommerce/admin-product.php:247
+#: woocommerce/admin-product.php:272 woocommerce/admin-product.php:297
+#: woocommerce/admin-product.php:324
+msgid "Pickup"
+msgstr "Afhaling"
+
+#: ByConsoleProductTimeTable.php:1205 woocommerce/admin-product.php:134
+#: woocommerce/admin-product.php:180 woocommerce/admin-product.php:209
+#: woocommerce/admin-product.php:234 woocommerce/admin-product.php:259
+#: woocommerce/admin-product.php:284 woocommerce/admin-product.php:311
+#: woocommerce/admin-product.php:336
+msgid "Delivery"
+msgstr "Levering"
+
+#: ByConsoleProductTimeTable.php:1215
+msgid "Choose your time slot"
+msgstr "Kies uw tijdslot"
+
+#: ByConsoleProductTimeTable.php:2385 ByConsoleProductTimeTable.php:2485
+#: report/admin_pickup_delivery_report.php:700
+msgid "Date"
+msgstr "Datum"
+
+#: ByConsoleProductTimeTable.php:2398 ByConsoleProductTimeTable.php:2487
+#: report/admin_pickup_delivery_report.php:413
+msgid "Order type"
+msgstr "Bestelling type"
+
+#: ByConsoleProductTimeTable.php:2410 ByConsoleProductTimeTable.php:2489
+#: report/admin_pickup_delivery_report.php:702
+msgid "Time"
+msgstr "Tijd"
+
+#: inc/admin_settings.php:98
+msgid ""
+"Leave blank not to set any pre-order days, this is number of days from "
+"current date customer can place an order."
+msgstr ""
+"Laat dit veld leeg om geen pre-order dagen in te stellen, dit is het aantal "
+"dagen vanaf de huidige datum waarop de klant een bestelling kan plaatsen."
+
+#: inc/admin_settings.php:109
+msgid ""
+"Leave blank to not set any restricted pre-order days,this is number of days "
+"customer can not place an order before these number of days from current "
+"date."
+msgstr ""
+"Laat dit veld leeg om geen beperkte pre-order dagen in te stellen. Dit is "
+"het aantal dagen dat de klant geen bestelling kan plaatsen voor dit aantal "
+"dagen vanaf de huidige datum."
+
+#: report/admin_pickup_delivery_report.php:283
+msgid "Select all Order Type"
+msgstr "Selecteer all types bestellingen"
+
+#: report/admin_pickup_delivery_report.php:291
+msgid "Order Completed"
+msgstr "Bestelling voltooid"
+
+#: report/admin_pickup_delivery_report.php:303
+msgid "Order Pending"
+msgstr "Bestelling in behandeling"
+
+#: report/admin_pickup_delivery_report.php:315
+msgid "Order Processing"
+msgstr "Bestelling in verwerking"
+
+#: report/admin_pickup_delivery_report.php:327
+msgid "Order on Hold"
+msgstr "Bestelling in wacht"
+
+#: report/admin_pickup_delivery_report.php:423
+msgid "Entar Date"
+msgstr "Voer datum in"
+
+#: report/admin_pickup_delivery_report.php:425
+msgid "Dishes Search"
+msgstr "Gerechten zoeken"
+
+#: report/admin_pickup_delivery_report.php:435
+#: report/admin_pickup_delivery_report.php:439
+msgid "Order to be Delivered"
+msgstr "Bestelling te bezorgen"
+
+#: report/admin_pickup_delivery_report.php:688
+#: report/admin_pickup_delivery_report.php:1064
+msgid "Status"
+msgstr "Status"
+
+#: report/admin_pickup_delivery_report.php:690
+#: report/admin_pickup_delivery_report.php:1068
+msgid "Order No"
+msgstr "Bestelnummer"
+
+#: report/admin_pickup_delivery_report.php:692
+#: report/admin_pickup_delivery_report.php:1072
+msgid "Customer Name"
+msgstr "Naam Klant"
+
+#: report/admin_pickup_delivery_report.php:694
+#: report/admin_pickup_delivery_report.php:1076
+msgid "Product"
+msgstr "Product "
+
+#: report/admin_pickup_delivery_report.php:696
+#: report/admin_pickup_delivery_report.php:1080
+msgid "Qty"
+msgstr "Hoeveelheid"
+
+#: report/admin_pickup_delivery_report.php:698
+msgid "Add On"
+msgstr "Add On"
+
+#: report/admin_pickup_delivery_report.php:704
+#: report/admin_pickup_delivery_report.php:1088
+msgid "Phone"
+msgstr "Telefoon:"
+
+#: report/admin_pickup_delivery_report.php:706
+#: report/admin_pickup_delivery_report.php:1092
+msgid "Billing Address"
+msgstr "Facturatie adres"
+
+#: report/admin_pickup_delivery_report.php:708
+#: report/admin_pickup_delivery_report.php:1096
+msgid "Shipping Address"
+msgstr "Leveringsadres"
+
+#: report/admin_pickup_delivery_report.php:710
+#: report/admin_pickup_delivery_report.php:1100
+msgid "Customer Note"
+msgstr "Nota Klant"
+
+#: report/admin_pickup_delivery_report.php:915
+msgid "Export as csv"
+msgstr "Exporteer als csv"
+
+#: report/admin_pickup_delivery_report.php:1084
+msgid "Date/Time"
+msgstr "Datum/Tijd"
+
+#: shortcode/product-availability-schedule.php:86
+#: shortcode/product-availability-schedule.php:136
+#: shortcode/product-availability-schedule.php:183
+#: shortcode/product-availability-schedule.php:238
+#: shortcode/product-availability-schedule.php:286
+#: shortcode/product-availability-schedule.php:333
+#: shortcode/product-availability-schedule.php:385
+#: shortcode/product-availability-schedule.php:436
+#: shortcode/product-availability-schedule.php:483
+#: shortcode/product-availability-schedule.php:539
+#: shortcode/product-availability-schedule.php:590
+#: shortcode/product-availability-schedule.php:637
+#: shortcode/product-availability-schedule.php:694
+#: shortcode/product-availability-schedule.php:746
+#: shortcode/product-availability-schedule.php:792
+#: shortcode/product-availability-schedule.php:849
+#: shortcode/product-availability-schedule.php:901
+#: shortcode/product-availability-schedule.php:947
+#: shortcode/product-availability-schedule.php:1004
+#: shortcode/product-availability-schedule.php:1055
+#: shortcode/product-availability-schedule.php:1105
+#: shortcode/product-availability-schedule.php:1185
+#: shortcode/product-availability-schedule.php:1256
+#: shortcode/product-availability-schedule.php:1325
+#: shortcode/product-availability-schedule.php:1400
+#: shortcode/product-availability-schedule.php:1469
+#: shortcode/product-availability-schedule.php:1538
+#: shortcode/product-availability-schedule.php:1617
+#: shortcode/product-availability-schedule.php:1692
+#: shortcode/product-availability-schedule.php:1762
+#: shortcode/product-availability-schedule.php:1840
+#: shortcode/product-availability-schedule.php:1912
+#: shortcode/product-availability-schedule.php:1964
+#: shortcode/product-availability-schedule.php:2061
+#: shortcode/product-availability-schedule.php:2138
+#: shortcode/product-availability-schedule.php:2189
+#: shortcode/product-availability-schedule.php:2283
+#: shortcode/product-availability-schedule.php:2357
+#: shortcode/product-availability-schedule.php:2426
+#: shortcode/product-availability-schedule.php:2502
+#: shortcode/product-availability-schedule.php:2574
+#: shortcode/product-availability-schedule.php:2644
+#: shortcode/product-search-availability-schedule.php:157
+#: shortcode/product-search-availability-schedule.php:223
+#: shortcode/product-search-availability-schedule.php:284
+#: shortcode/product-search-availability-schedule.php:353
+#: shortcode/product-search-availability-schedule.php:417
+#: shortcode/product-search-availability-schedule.php:480
+#: shortcode/product-search-availability-schedule.php:543
+#: shortcode/product-search-availability-schedule.php:607
+#: shortcode/product-search-availability-schedule.php:669
+#: shortcode/product-search-availability-schedule.php:735
+#: shortcode/product-search-availability-schedule.php:796
+#: shortcode/product-search-availability-schedule.php:859
+#: shortcode/product-search-availability-schedule.php:928
+#: shortcode/product-search-availability-schedule.php:996
+#: shortcode/product-search-availability-schedule.php:1060
+#: shortcode/product-search-availability-schedule.php:1130
+#: shortcode/product-search-availability-schedule.php:1199
+#: shortcode/product-search-availability-schedule.php:1260
+#: shortcode/product-search-availability-schedule.php:1330
+#: shortcode/product-search-availability-schedule.php:1397
+#: shortcode/product-search-availability-schedule.php:1459
+#: shortcode/product-search-availability-schedule.php:1541
+#: shortcode/product-search-availability-schedule.php:1607
+#: shortcode/product-search-availability-schedule.php:1668
+#: shortcode/product-search-availability-schedule.php:1737
+#: shortcode/product-search-availability-schedule.php:1801
+#: shortcode/product-search-availability-schedule.php:1864
+#: shortcode/product-search-availability-schedule.php:1927
+#: shortcode/product-search-availability-schedule.php:1991
+#: shortcode/product-search-availability-schedule.php:2053
+#: shortcode/product-search-availability-schedule.php:2119
+#: shortcode/product-search-availability-schedule.php:2180
+#: shortcode/product-search-availability-schedule.php:2243
+#: shortcode/product-search-availability-schedule.php:2312
+#: shortcode/product-search-availability-schedule.php:2380
+#: shortcode/product-search-availability-schedule.php:2444
+#: shortcode/product-search-availability-schedule.php:2514
+#: shortcode/product-search-availability-schedule.php:2583
+#: shortcode/product-search-availability-schedule.php:2644
+#: shortcode/product-search-availability-schedule.php:2714
+#: shortcode/product-search-availability-schedule.php:2781
+#: shortcode/product-search-availability-schedule.php:2843
+#: shortcode/product-weekly-tab-schedule.php:89
+#: shortcode/product-weekly-tab-schedule.php:160
+#: shortcode/product-weekly-tab-schedule.php:231
+#: shortcode/product-weekly-tab-schedule.php:297
+#: shortcode/product-weekly-tab-schedule.php:347
+#: shortcode/product-weekly-tab-schedule.php:394
+#: shortcode/product-weekly-tab-schedule.php:481
+#: shortcode/product-weekly-tab-schedule.php:550
+#: shortcode/product-weekly-tab-schedule.php:626
+#: shortcode/product-weekly-tab-schedule.php:694
+#: shortcode/product-weekly-tab-schedule.php:743
+#: shortcode/product-weekly-tab-schedule.php:790
+#: shortcode/product-weekly-tab-schedule.php:876
+#: shortcode/product-weekly-tab-schedule.php:951
+#: shortcode/product-weekly-tab-schedule.php:1027
+#: shortcode/product-weekly-tab-schedule.php:1091
+#: shortcode/product-weekly-tab-schedule.php:1142
+#: shortcode/product-weekly-tab-schedule.php:1189
+#: shortcode/product-weekly-tab-schedule.php:1273
+#: shortcode/product-weekly-tab-schedule.php:1345
+#: shortcode/product-weekly-tab-schedule.php:1397
+#: shortcode/product-weekly-tab-schedule.php:1489
+#: shortcode/product-weekly-tab-schedule.php:1541
+#: shortcode/product-weekly-tab-schedule.php:1588
+#: shortcode/product-weekly-tab-schedule.php:1674
+#: shortcode/product-weekly-tab-schedule.php:1751
+#: shortcode/product-weekly-tab-schedule.php:1803
+#: shortcode/product-weekly-tab-schedule.php:1892
+#: shortcode/product-weekly-tab-schedule.php:1944
+#: shortcode/product-weekly-tab-schedule.php:1990
+#: shortcode/product-weekly-tab-schedule.php:2074
+#: shortcode/product-weekly-tab-schedule.php:2148
+#: shortcode/product-weekly-tab-schedule.php:2223
+#: shortcode/product-weekly-tab-schedule.php:2291
+#: shortcode/product-weekly-tab-schedule.php:2343
+#: shortcode/product-weekly-tab-schedule.php:2389
+#: shortcode/product-weekly-tab-schedule.php:2475
+#: shortcode/product-weekly-tab-schedule.php:2547
+#: shortcode/product-weekly-tab-schedule.php:2621
+#: shortcode/product-weekly-tab-schedule.php:2690
+#: shortcode/product-weekly-tab-schedule.php:2741
+#: shortcode/product-weekly-tab-schedule.php:2791
+msgid "No products found"
+msgstr "Geen producten gevonden"
+
+#: woocommerce/admin-product.php:12
+msgid "Product Availability Schedule"
+msgstr "Schema beschikbaarheid product"
+
+#: woocommerce/admin-product.php:36 woocommerce/admin-product.php:89
+#: woocommerce/admin-product.php:151
+msgid "Enable:"
+msgstr "Inschakelen:"
+
+#: woocommerce/admin-product.php:37
+msgid "Click to enable in plugin working"
+msgstr "Klik om de in de plug-in te laten werken"
+
+#: woocommerce/admin-product.php:49
+msgid "Same day delivery cut off time(Pickup): "
+msgstr "Afsluittijd voor levering op dezelfde dag (Afhalen)"
+
+#: woocommerce/admin-product.php:57
+msgid "Same day delivery cut off time(Delivery): "
+msgstr "Afsluittijd voor levering op dezelfde dag (Levering):"
+
+#: woocommerce/admin-product.php:65
+msgid "Next day delivery cut off time(Pickup): "
+msgstr "Uiterste leveringstijd de volgende dag (Afhalen):"
+
+#: woocommerce/admin-product.php:73
+msgid "Next day delivery cut off time(Delivery): "
+msgstr "Afsluittijd voor levering de volgende dag (Levering):"
+
+#: woocommerce/admin-product.php:91
+msgid "Click to enable in particular date"
+msgstr "Klik om een ​​bepaalde datum in te schakelen"
+
+#: woocommerce/admin-product.php:103
+msgid "Particular Date : "
+msgstr "Bepaalde datum:"
+
+#: woocommerce/admin-product.php:153
+msgid "Click to enable in Day wise pickup and delivery"
+msgstr "Klik om dagelijks ophalen en bezorgen in te schakelen"
+
+#: woocommerce/admin-product.php:168
+msgid "Sunday"
+msgstr "Zondag"
+
+#: woocommerce/admin-product.php:196
+msgid "Monday"
+msgstr "Maandag"
+
+#: woocommerce/admin-product.php:221
+msgid "Tuesday"
+msgstr "Dinsdag"
+
+#: woocommerce/admin-product.php:246
+msgid "Wednesday"
+msgstr "Woensdag"
+
+#: woocommerce/admin-product.php:271
+msgid "Thursday"
+msgstr "Donderdag"
+
+#: woocommerce/admin-product.php:296
+msgid "Friday"
+msgstr "Vrijdag"
+
+#: woocommerce/admin-product.php:323
+msgid "Saturday"
+msgstr "Zaterdag"

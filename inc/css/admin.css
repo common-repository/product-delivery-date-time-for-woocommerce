@@ -1,0 +1,126 @@
+
+
+
+.sunday_delivery p.form-field._sunday_delivery_field{padding-left:0px !important;}
+
+
+
+
+
+.monday_delivery p.form-field._monday_delivery_field{padding-left:0px !important;}
+
+
+
+
+
+.tuesday_delivery p.form-field._tuesday_delivery_field{padding-left:0px !important;}
+
+
+
+
+
+.wednesday_delivery p.form-field._wednesday_delivery_field{padding-left:0px !important;}
+
+
+
+
+
+.thursday_delivery p.form-field._thursday_delivery_field{padding-left:0px !important;}
+
+
+
+
+
+.friday_delivery p.form-field._friday_delivery_field{padding-left:0px !important;}
+
+
+
+
+
+.saturday_delivery p.form-field._saturday_delivery_field{padding-left:0px !important;}
+
+
+
+
+
+#bycwoopdt-custom-tab_options span{color:#701A1A;}
+
+
+
+
+
+#byc_particular_product_date{ width:100%;}
+
+
+
+
+
+.bycwooptt-custom-tab_options a{color:#090fd0 !important; font-weight: 600;}
+
+
+
+
+
+label[for="_cut_of_time_for_pickup"]{font-size: 14px;color: #701A1A;font-weight: 600;}
+
+
+label[for="_cut_of_time_for_delivery"]{font-size: 14px;color: #701A1A;font-weight: 600;}
+
+
+label[for="_next_day_cut_of_time_for_pickup"]{font-size: 14px;color: #701A1A;font-weight: 600;}
+
+
+label[for="_next_day_cut_of_time_for_delivery"]{font-size: 14px;color: #701A1A;font-weight: 600;}
+
+
+
+
+
+label[for="_sunday_pickup"]{font-size: 14px;color: #701A1A;font-weight: 600;}
+
+
+label[for="_sunday_delivery"]{font-size: 14px;color: #701A1A;font-weight: 600;}
+
+
+
+
+
+label[for="_monday_pickup"]{font-size: 14px;color: #701A1A;font-weight: 600;}
+
+
+label[for="_tuesday_pickup"]{font-size: 15px;color: #701A1A;font-weight: 600;}
+
+
+label[for="_wednesday_pickup"]{font-size: 15px;color: #701A1A;font-weight: 600;}
+
+
+label[for="_thursday_pickup"]{font-size: 15px;color: #701A1A;font-weight: 600;}
+
+
+label[for="_friday_pickup"]{font-size: 15px;color: #701A1A;font-weight: 600;}
+
+
+label[for="_saturday_pickup"]{ font-size: 15px;color: #701A1A; font-weight: 600;}
+
+
+
+
+
+label[for="byc_enable_for_day_wise_delivery"]{ font-size: 15px;color: #701A1A; font-weight: 600;}
+
+
+label[for="byc_enable_for_funsantions_working"]{ font-size: 15px;color: #701A1A; font-weight: 600;}
+
+
+label[for="byc_enable_for_datewise_delivery"]{ font-size: 15px;color: #701A1A; font-weight: 600;}
+
+
+label[for="byc_particular_product_date"]{ font-size: 15px;color: #701A1A; font-weight: 600;}
+
+
+
+
+
+.wp-core-ui .submit{display: flex;z-index: 99999; position: sticky; max-width: 500px;  bottom: 0;}
+
+
